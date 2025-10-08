@@ -1,0 +1,5 @@
+{
+  "name": "Năm Sao Trình báo giá",
+  "description": "An application to generate professional service quotes for Nam Sao Industrial Cleaning company. Users can input customer details, cleaning items, and area to receive a beautifully designed quote image.",
+  "requestFramePermissions": []
+}
